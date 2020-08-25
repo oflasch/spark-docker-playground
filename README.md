@@ -34,4 +34,6 @@ After the cluster components start up, you can connect to the following services
 * **Spark worker #2 web UI** at http://localhost:8082
 
 Press `ctrl+c` to shutdown.
+This will stop the running containers.
+Use `docker-compose down` to remove them.
 
