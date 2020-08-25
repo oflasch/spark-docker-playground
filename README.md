@@ -32,3 +32,6 @@ After the cluster components start up, you can connect to the following services
 * **Spark master web UI** at http://localhost:8080
 * **Spark worker #1 web UI** at http://localhost:8081
 * **Spark worker #2 web UI** at http://localhost:8082
+
+Press `ctrl+c` to shutdown.
+
